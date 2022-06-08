@@ -1,0 +1,13 @@
+Comandos
+
+UTILIDADE DO COMANDO	WINDOWS	UNIX/GIT
+Mudar de pasta	        CD	         CD
+Listar Pastas	        DIR	         LS
+Criar Pastas	       MKDIR	  MKDIR
+Deletar Pastas	       RMDIR	   RM
+Criar Arquivo	       ECHO >	  ECHO >
+Deletar Arquivo	        DEL	         DEL
+Limpar (Git ou CMD)	  CLS	        CTR + L | CLEAR
+Voltar	              ..	          ..
+Ir para comando utilizados anteriormente	↑
+
