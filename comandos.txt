@@ -1,6 +1,5 @@
 Comandos
-
-UTILIDADE DO COMANDO	
+	
 Mudar de pasta  CD
 Listar Pastas	LS
 Criar Pastas MKDIR
